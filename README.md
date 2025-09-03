@@ -5,3 +5,5 @@ A simple desktop clock for Windows.
 - Always on top toggle.
 - System tray or taskbar mode.
 - Resizeable +-20 pixels.
+
+![QT_Uhr Screenshot](clock.png)
