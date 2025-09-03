@@ -7,3 +7,11 @@ A simple desktop clock for Windows.
 - Resizeable +-20 pixels.
 
 ![QT_Uhr Screenshot](clock.png)
+
+## Dependencies
+
+| Name          | Version        |
+|---------------|----------------|
+| Qt            | >= 6.9.1        |
+| Visual Studio | 2022        |
+| Windows       | >= 10           |
