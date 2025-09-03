@@ -95,9 +95,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <QtMoc Include="QT_Uhr.h" />
     <ClCompile Include="ClockWidget.cpp" />
-    <ClCompile Include="QT_Uhr.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>

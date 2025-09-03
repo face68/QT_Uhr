@@ -1,5 +1,4 @@
-﻿#include "QT_Uhr.h"
-#include "ClockWidget.h"
+﻿#include "ClockWidget.h"
 
 #include <QtWidgets/QApplication>
 
