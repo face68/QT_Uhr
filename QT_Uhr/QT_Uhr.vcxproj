@@ -100,8 +100,6 @@
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="ClockWidget.h" />
-    <ClInclude Include="resource.h" />
-    <ClInclude Include="resource1.h" />
   </ItemGroup>
   <ItemGroup>
     <QtRcc Include="Resource.qrc" />
